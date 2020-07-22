@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.juhileenazare.recipebox">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/applogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Breakfast" />
+        <activity android:name=".Breakfast1" />
+        <activity android:name=".Snacks" />
+        <activity android:name=".Snacks1" />
+        <activity android:name=".List" />
+        <activity android:name=".Lunch_1" />
+        <activity android:name=".Lunch4" />
+        <activity android:name=".Lunch5" />
+        <activity
+            android:name=".Breakfast2"
+            android:label="@string/title_activity_breakfast2"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Snacks2"
+            android:label="@string/title_activity_snacks2"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Login" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".TestActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ToDoList"></activity>
+    </application>
+
+</manifest>

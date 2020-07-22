@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#a1001e</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="bt.color">#ffffff</color>
+    <color name="strcolor">#FFFFFF</color>
+    <color name="endcolor">#00FF00</color>
+    <color name="bag.colo">#5728e4</color>
+    <color name="btn.bg">#1442d9</color>
+    <color name="spalsh">#7f7f7f</color>
+    <color name="buttontext">#11FFee</color>
+    <color name="texthintcolor">#39ff14</color>
+</resources>
